@@ -19,3 +19,5 @@
 2. Attention is all you need
 3. Learning to Generate Synthetic Data via Compositing
 4. https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
+5. Meta-Interpretive Learning of Data Transformation Programs (PBE)
+6. Learning Semantic String Transformations from Examples
