@@ -1,6 +1,6 @@
-# Research-Papers
+# Research-Papers/Articles
 
-## Papers I have read
+## Papers/Articles I have read
 
 1. Cross Stitch Networks for MTL
 2. Mitigating Bias in Gender Age and Ethnicity Classification- a Multi-Task Convolution Neural Network Approach
@@ -13,9 +13,9 @@
 9. Learning the Redundancy-free Features for Generalized Zero-Shot Object Recognition
 10. Rethinking Zero-shot Video Classification- End-to-end Training for Realistic Applications
 
-## Papers I need to read
+## Papers/Articles I need to read
 
 1. Meta-Transfer Learning for Zero-Shot Super-Resolution
 2. Attention is all you need
-
-
+3. Learning to Generate Synthetic Data via Compositing
+4. https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
