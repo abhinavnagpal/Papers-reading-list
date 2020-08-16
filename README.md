@@ -12,12 +12,15 @@
 8. Generalized Zero-Shot Learning Via Over-Complete Distribution
 9. Learning the Redundancy-free Features for Generalized Zero-Shot Object Recognition
 10. Rethinking Zero-shot Video Classification- End-to-end Training for Realistic Applications
+11. https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
+
 
 ## Papers/Articles I need to read
 
 1. Meta-Transfer Learning for Zero-Shot Super-Resolution
 2. Attention is all you need
 3. Learning to Generate Synthetic Data via Compositing
-4. https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
-5. Meta-Interpretive Learning of Data Transformation Programs (PBE)
-6. Learning Semantic String Transformations from Examples
+4. Meta-Interpretive Learning of Data Transformation Programs (PBE)
+5. Learning Semantic String Transformations from Examples
+6. https://arxiv.org/pdf/1606.05908.pdf 
+7. https://www.countbayesie.com/blog/2015/3/3/6-amazing-trick-with-monte-carlo-simulations
