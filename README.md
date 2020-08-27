@@ -24,3 +24,4 @@
 5. Learning Semantic String Transformations from Examples
 6. https://arxiv.org/pdf/1606.05908.pdf 
 7. https://www.countbayesie.com/blog/2015/3/3/6-amazing-trick-with-monte-carlo-simulations
+8. An Embarrassingly Simple Approach for Knowledge Distillation
