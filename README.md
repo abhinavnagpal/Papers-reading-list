@@ -30,3 +30,4 @@
 11. Effective Approaches to Attention-based Neural Machine Translation
 12. Long Short-Term Memory-Networks for Machine Reading
 13. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+14. Deep contextualized word representations
