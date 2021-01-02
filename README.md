@@ -25,3 +25,8 @@
 6. https://arxiv.org/pdf/1606.05908.pdf 
 7. https://www.countbayesie.com/blog/2015/3/3/6-amazing-trick-with-monte-carlo-simulations
 8. An Embarrassingly Simple Approach for Knowledge Distillation
+9. NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
+10. Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
+11. Effective Approaches to Attention-based Neural Machine Translation
+12. Long Short-Term Memory-Networks for Machine Reading
+13. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
