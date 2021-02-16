@@ -13,21 +13,22 @@
 9. Learning the Redundancy-free Features for Generalized Zero-Shot Object Recognition
 10. Rethinking Zero-shot Video Classification- End-to-end Training for Realistic Applications
 11. https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
+12. Attention is all you need
+13. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+14. Meta-Interpretive Learning of Data Transformation Programs (PBE)
+15. Learning Semantic String Transformations from Examples
 
 
 ## Papers/Articles I need to read
 
 1. Meta-Transfer Learning for Zero-Shot Super-Resolution
-2. Attention is all you need
-3. Learning to Generate Synthetic Data via Compositing
-4. Meta-Interpretive Learning of Data Transformation Programs (PBE)
-5. Learning Semantic String Transformations from Examples
-6. https://arxiv.org/pdf/1606.05908.pdf 
-7. https://www.countbayesie.com/blog/2015/3/3/6-amazing-trick-with-monte-carlo-simulations
-8. An Embarrassingly Simple Approach for Knowledge Distillation
-9. NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
-10. Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
-11. Effective Approaches to Attention-based Neural Machine Translation
-12. Long Short-Term Memory-Networks for Machine Reading
-13. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-14. Deep contextualized word representations
+2. Learning to Generate Synthetic Data via Compositing
+4. https://arxiv.org/pdf/1606.05908.pdf 
+5. https://www.countbayesie.com/blog/2015/3/3/6-amazing-trick-with-monte-carlo-simulations
+6. An Embarrassingly Simple Approach for Knowledge Distillation
+7. NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
+8. Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
+9. Effective Approaches to Attention-based Neural Machine Translation
+10. Long Short-Term Memory-Networks for Machine Reading
+11. Deep contextualized word representations
+12. Train No Evil: Selective Masking for Task-Guided Pre-Training
