@@ -17,6 +17,7 @@
 13. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 14. Meta-Interpretive Learning of Data Transformation Programs (PBE)
 15. Learning Semantic String Transformations from Examples
+16. Train No Evil: Selective Masking for Task-Guided Pre-Training
 
 
 ## Papers/Articles I need to read
@@ -31,4 +32,4 @@
 9. Effective Approaches to Attention-based Neural Machine Translation
 10. Long Short-Term Memory-Networks for Machine Reading
 11. Deep contextualized word representations
-12. Train No Evil: Selective Masking for Task-Guided Pre-Training
+12. Beyond Accuracy: Behavioral Testing of NLP Models with CheckList
