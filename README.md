@@ -18,7 +18,7 @@
 14. Meta-Interpretive Learning of Data Transformation Programs (PBE)
 15. Learning Semantic String Transformations from Examples
 16. Train No Evil: Selective Masking for Task-Guided Pre-Training
-
+17. Modeling Fine-Grained Entity Types with Box Embeddings
 
 ## Papers/Articles I need to read
 
