@@ -19,6 +19,7 @@
 15. Learning Semantic String Transformations from Examples
 16. Train No Evil: Selective Masking for Task-Guided Pre-Training
 17. Modeling Fine-Grained Entity Types with Box Embeddings
+18. Deep Learning for Symbolic Mathematics
 
 ## Papers/Articles I need to read
 
@@ -33,3 +34,5 @@
 10. Long Short-Term Memory-Networks for Machine Reading
 11. Deep contextualized word representations
 12. Beyond Accuracy: Behavioral Testing of NLP Models with CheckList
+13. Prefix-Tuning: Optimizing Continuous Prompts for Generation
+14. Towards Debiasing Sentence Representations
