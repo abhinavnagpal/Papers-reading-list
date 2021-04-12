@@ -36,3 +36,4 @@
 12. Beyond Accuracy: Behavioral Testing of NLP Models with CheckList
 13. Prefix-Tuning: Optimizing Continuous Prompts for Generation
 14. Towards Debiasing Sentence Representations
+15. POINTER: Constrained Progressive Text Generation via Insertion-based Generative Pre-training
