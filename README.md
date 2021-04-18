@@ -37,3 +37,7 @@
 13. Prefix-Tuning: Optimizing Continuous Prompts for Generation
 14. Towards Debiasing Sentence Representations
 15. POINTER: Constrained Progressive Text Generation via Insertion-based Generative Pre-training
+16. Deep Entity Matching with Pre-Trained Language Models
+17. Learning advanced mathematical computations from examples
+18. A Neuro-Symbolic Method for Solving Differential and Functional Equations
+19. Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge
