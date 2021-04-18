@@ -41,3 +41,7 @@
 17. Learning advanced mathematical computations from examples
 18. A Neuro-Symbolic Method for Solving Differential and Functional Equations
 19. Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge
+20. Training Compact Models for Low Resource Entity Tagging using Pre-trained Language Models
+21. Global Entity Disambiguation with Pretrained Contextualized Embeddings of Words and Entities
+22. Improving Entity Linking by Modeling Latent Entity Type Information
+23. Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks
