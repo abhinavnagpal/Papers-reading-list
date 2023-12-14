@@ -59,3 +59,4 @@
 5. https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
 6. Attention is all you need
 7. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+8. BERTopic: Neural topic modeling with a class-based TF-IDF procedure
